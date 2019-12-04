@@ -3,7 +3,7 @@
 - [The worst mistake of computer science](https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/)
 - [11 of the most costly software errors in history](https://raygun.com/blog/costly-software-errors-history)
 
-## Fóruns
+## Forums
 
 - [reddit/softwarebugs](https://www.reddit.com/r/softwarebugs)
 
