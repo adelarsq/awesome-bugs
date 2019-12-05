@@ -1,4 +1,4 @@
-# awesome-bugs
+# Awesome Bugs
 
 ## Worst Bugs
 
