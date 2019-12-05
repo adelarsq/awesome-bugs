@@ -1,11 +1,23 @@
 # awesome-bugs
 
+## Worst Bugs
+
 - [The worst mistake of computer science](https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/)
 - [11 of the most costly software errors in history](https://raygun.com/blog/costly-software-errors-history)
+- [Therac 25](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
 
 ## Forums
 
 - [reddit/softwarebugs](https://www.reddit.com/r/softwarebugs)
+
+## Bug Trackers
+
+- [Bug Trackers list](https://geteasyqa.com/blog/best-bug-tracking-software/)
+
+## Reporting
+
+- [Mozilla Bugs](https://bugzilla.mozilla.org/)
+- [Chromium Bugs](https://www.chromium.org/for-testers/bug-reporting-guidelines)
 
 ## Languages
 
