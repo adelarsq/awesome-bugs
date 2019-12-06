@@ -1,5 +1,8 @@
 # Awesome Bugs
 
+- [Collection of Software Bugs](https://www5.in.tum.de/~huckle/bugse.html)
+  - [HN](https://news.ycombinator.com/item?id=21701017)
+
 ## Worst Bugs
 
 - [The worst mistake of computer science](https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/)
