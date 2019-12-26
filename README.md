@@ -9,6 +9,11 @@
 - [11 of the most costly software errors in history](https://raygun.com/blog/costly-software-errors-history)
 - [Therac 25](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
 
+## Blogs
+
+- [Grumpy Website](https://grumpy.website) – a blog about everything wrong with modern web & tech
+  - [HN](https://news.ycombinator.com/item?id=21878292)
+
 ## Forums
 
 - [reddit/softwarebugs](https://www.reddit.com/r/softwarebugs)
