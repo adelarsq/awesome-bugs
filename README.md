@@ -27,6 +27,10 @@
 - [Mozilla Bugs](https://bugzilla.mozilla.org/)
 - [Chromium Bugs](https://www.chromium.org/for-testers/bug-reporting-guidelines)
 
+## Bug Hunting
+
+- [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+
 ## Languages
 
 ### Java
