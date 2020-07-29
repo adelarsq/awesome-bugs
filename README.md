@@ -29,6 +29,7 @@
 
 - [Mozilla Bugs](https://bugzilla.mozilla.org/)
 - [Chromium Bugs](https://www.chromium.org/for-testers/bug-reporting-guidelines)
+- [Como Relatar Bugs De Maneira Eficaz - PT-BR](https://www.chiark.greenend.org.uk/~sgtatham/bugs-br.html)
 
 ## Bug Hunting
 
