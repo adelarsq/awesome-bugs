@@ -1,4 +1,4 @@
-# Awesome Bugs
+# Awesome Bugs 🐛
 
 A compilation list about bugs on software.
 
@@ -38,6 +38,11 @@ A compilation list about bugs on software.
 - [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 ## Languages
+
+### C/C++
+
+- [It Is Never a Compiler Bug Until It Is](http://r6.ca/blog/20200929T023701Z.html)
+    - [HackerNews](https://news.ycombinator.com/item?id=24636326)
 
 ### Java
 
