@@ -3,9 +3,9 @@
 A compilation list about bugs on software.
 
 - [Collection of Software Bugs](https://www5.in.tum.de/~huckle/bugse.html)
-  - [HN](https://news.ycombinator.com/item?id=21701017)
+  - [HackerNews](https://news.ycombinator.com/item?id=21701017)
 - [Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare)
-  - [HN](https://news.ycombinator.com/item?id=22019627)
+  - [HackerNews](https://news.ycombinator.com/item?id=22019627)
 
 ## Worst Bugs
 
@@ -17,7 +17,7 @@ A compilation list about bugs on software.
 ## Blogs
 
 - [Grumpy Website](https://grumpy.website) – a blog about everything wrong with modern web & tech
-  - [HN](https://news.ycombinator.com/item?id=21878292)
+  - [HackerNews](https://news.ycombinator.com/item?id=21878292)
 
 ## Forums
 
