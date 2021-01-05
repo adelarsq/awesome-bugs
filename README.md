@@ -55,3 +55,6 @@ A compilation list about bugs on software.
 
 - [Can GNU make handle filenames with spaces?](https://stackoverflow.com/questions/9838384/can-gnu-make-handle-filenames-with-spaces)
 
+## Videos
+
+- [Programadores precisam saber sobre 2038 (bug do milenio) - PT-BR](https://www.youtube.com/watch?v=uAwOTlYA4IM)
