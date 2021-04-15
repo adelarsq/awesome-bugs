@@ -58,3 +58,7 @@ A compilation list about bugs on software.
 ## Videos
 
 - [Programadores precisam saber sobre 2038 (bug do milenio) - PT-BR](https://www.youtube.com/watch?v=uAwOTlYA4IM)
+- [7 Security Risks and Hacking Stories for Web Developers](https://www.youtube.com/watch?v=4YOpILi9Oxs)
+- [Como Uma Foto no Instagram Fez Um Ministro Ser Hackeado - PT-BR](https://www.youtube.com/watch?v=VE7iDdGdDtM)
+- [Como Hackear - ft. @Gabriel Pato - PT-BR](https://www.youtube.com/watch?v=vwoqx_JqOWI)
+
