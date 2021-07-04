@@ -14,6 +14,19 @@ A compilation list about bugs on software.
 - [Therac 25](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
 - [Sistema "apaga" o zero do CPF no cadastro e dificulta pedido de R$ 600 - PT-BR](https://economia.uol.com.br/noticias/redacao/2020/04/27/auxilio-r-600-zero-cpf-some-confirmacao-do-pedido.htm)
 
+## Types
+
+This is a list of types of bugs:
+
+- hardware failure
+- cosmic rays
+- incorrect softare
+- overcommit
+
+### Cosmic Rays
+
+- [Cosmic rays bug!](https://twitter.com/andy_kelley/status/1411597889621561346)
+
 ## Blogs
 
 - [Grumpy Website](https://grumpy.website) – a blog about everything wrong with modern web & tech
