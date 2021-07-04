@@ -16,7 +16,7 @@ A compilation list about bugs on software.
 
 ## Types
 
-This is a list of types of bugs:
+This is a list of bugs types:
 
 - hardware failure
 - cosmic rays
