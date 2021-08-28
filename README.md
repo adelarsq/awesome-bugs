@@ -14,6 +14,11 @@ A compilation list about bugs on software.
 - [Therac 25](https://hackaday.com/2015/10/26/killed-by-a-machine-the-therac-25/)
 - [Sistema "apaga" o zero do CPF no cadastro e dificulta pedido de R$ 600 - PT-BR](https://economia.uol.com.br/noticias/redacao/2020/04/27/auxilio-r-600-zero-cpf-some-confirmacao-do-pedido.htm)
 
+## Articles
+
+- [One week of bugs - 2014](https://danluu.com/everything-is-broken/)
+  - [HackerNews](https://news.ycombinator.com/item?id=28329906)
+
 ## Types
 
 This is a list of bugs types:
