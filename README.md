@@ -79,4 +79,5 @@ This is a list of bugs types:
 - [7 Security Risks and Hacking Stories for Web Developers](https://www.youtube.com/watch?v=4YOpILi9Oxs)
 - [Como Uma Foto no Instagram Fez Um Ministro Ser Hackeado - PT-BR](https://www.youtube.com/watch?v=VE7iDdGdDtM)
 - [Como Hackear - ft. @Gabriel Pato - PT-BR](https://www.youtube.com/watch?v=vwoqx_JqOWI)
+- [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
 
