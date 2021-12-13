@@ -25,7 +25,7 @@ This is a list of bugs types:
 
 - hardware failure
 - cosmic rays
-- incorrect softare
+- incorrect software
 - overcommit
 
 ### Cosmic Rays
