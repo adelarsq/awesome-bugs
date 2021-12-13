@@ -66,6 +66,7 @@ This is a list of bugs types:
 ### Java
 
 - [The most copied StackOverflow snippet of all time is flawed!](https://programming.guide/worlds-most-copied-so-snippet.html)
+- [Log4j: It’s worse than you think](https://www.praetorian.com/blog/log4j-its-worse-than-you-think/) [🐾](https://github.com/NCSC-NL/log4shell)
 
 ## Tools
 
