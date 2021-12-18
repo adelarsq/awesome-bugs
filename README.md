@@ -66,7 +66,9 @@ This is a list of bugs types:
 ### Java
 
 - [The most copied StackOverflow snippet of all time is flawed!](https://programming.guide/worlds-most-copied-so-snippet.html)
-- [Log4j: It’s worse than you think](https://www.praetorian.com/blog/log4j-its-worse-than-you-think/) [🐾](https://github.com/NCSC-NL/log4shell) [💉](https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134) [🎞](https://www.youtube.com/watch?v=uyq8yxWO1ls)
+- Log4j
+    - [CVE-2021-44228: It’s worse than you think](https://www.praetorian.com/blog/log4j-its-worse-than-you-think/) [🐾](https://github.com/NCSC-NL/log4shell) [💉](https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134) [🎞](https://www.youtube.com/watch?v=uyq8yxWO1ls)
+    - [CVE-2021-45046](https://blog.cloudflare.com/protection-against-cve-2021-45046-the-additional-log4j-rce-vulnerability/)
 
 ## Tools
 
