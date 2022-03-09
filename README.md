@@ -18,6 +18,8 @@ A compilation list about bugs on software.
 
 - [One week of bugs - 2014](https://danluu.com/everything-is-broken/)
   - [HackerNews](https://news.ycombinator.com/item?id=28329906)
+- [Bugs in Hello World](https://blog.sunfishcode.online/bugs-in-hello-world/)
+  - [HackerNews](https://news.ycombinator.com/item?id=30611367)
 
 ## Types
 
