@@ -88,4 +88,5 @@ This is a list of bugs types:
 - [Como Uma Foto no Instagram Fez Um Ministro Ser Hackeado - PT-BR](https://www.youtube.com/watch?v=VE7iDdGdDtM)
 - [Como Hackear - ft. @Gabriel Pato - PT-BR](https://www.youtube.com/watch?v=vwoqx_JqOWI)
 - [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
+- [Programming’s Greatest Mistakes - Mark Rendle - NDC Copenhagen 2022](https://www.youtube.com/watch?v=qC_ioJQpv4E)
 
