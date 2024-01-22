@@ -65,6 +65,10 @@ This is a list of bugs types:
     - [HackerNews](https://news.ycombinator.com/item?id=24636326)
 - [What is the most dangerous C++ line of code?](https://www.quora.com/What-is-the-most-dangerous-C-line-of-code)
 
+### Go
+
+- [Go, nil, panic, and the billion dollar mistake](https://www.reddit.com/r/golang/comments/18sncxt/go_nil_panic_and_the_billion_dollar_mistake/)
+
 ### Java
 
 - [The most copied StackOverflow snippet of all time is flawed!](https://programming.guide/worlds-most-copied-so-snippet.html)
